@@ -15,9 +15,15 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [YOUR_REPOSITORY_URL]
+git clone https://github.com/YaelRov/Submarine-Placement-Game
 cd submarine_placement_program
 ```
+
+### Alternative: Manual Download
+1. Visit https://github.com/YaelRov/Submarine-Placement-Game
+2. Click "Code" > "Download ZIP"
+3. Extract the downloaded ZIP file
+4. Open terminal/command prompt in extracted folder
 
 ### 2. Docker Installation and Setup
 
