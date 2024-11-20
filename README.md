@@ -1,4 +1,4 @@
-# Submarine Placement and Search Program
+# Submarine Placement and Search Program🚢🚀
 
 ## Prerequisites
 
