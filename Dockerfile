@@ -11,4 +11,4 @@ COPY submarine.c .
 RUN gcc -o submarine submarine.c
 
 # שלב 5: הגדרת פקודת ברירת המחדל להרצת התוכנית
-CMD ["./submarine"]
+CMD ["/usr/src/app/submarine"]
