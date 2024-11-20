@@ -10,9 +10,6 @@
 #define FILE_NAME "board.txt"
 #define LOG_FILE "log.txt"
 
-// docker build -t submarine-app .
-// docker run -it --rm -v "C:\submarine_placement_program:/app" -w /app submarine-app
-
 typedef struct
 {
     char **board;

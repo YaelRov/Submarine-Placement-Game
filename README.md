@@ -78,4 +78,4 @@ docker run -it --rm -v $(pwd):/app -w /app submarine-app
 - Yael Rov ([@YaelRov](https://github.com/YaelRov))
 - Yael Taub ([@YAEL-TAUB](https://github.com/YAEL-TAUB))
 - Tsipi Wajsberg ([@tsw1212](https://github.com/tsw1212))
-- Tiferet Maimon ([@](https://github.com/))
+- Tiferet Maimon ([@TiferetM](https://github.com/TiferetM))
